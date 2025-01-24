@@ -10,4 +10,4 @@ This project applies machine learning and linear algebra to real-world problems 
 📐 Euclidean Distances
 🏡 K Nearest Neighbors Algorithm
 ## Installation & Usage
-* This project uses numpy, pandas, seaborn, sklearn.linear_model, sklearn.metrics, NearestNeighbors, KNeighborsClassifier, sklearn.preprocessing, train_test_split, display, and math.  It requires python 3.11.
+* This project uses math, numpy, pandas, seaborn, display, LinearRegression, f1_score, mean_squared_error, r2_score, train_test_split, NearestNeighbors, KNeighborsClassifier, and MaxAbsScaler.  It requires python 3.11.
